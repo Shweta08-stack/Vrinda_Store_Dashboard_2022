@@ -32,7 +32,8 @@ This project is an interactive Excel dashboard analyzing the annual performance 
 
 🖼️ Dashboard Preview
 
-Vrinda_Store_Dashboard.jpeg
+
+
 
 
 👩‍💻 Author
